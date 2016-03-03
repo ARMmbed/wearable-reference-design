@@ -17,7 +17,4 @@ https://github.com/ARMmbed/wearable-reference-design-example-message-center
 #Partner Libraries
 Below is a featured list of some of our contributing partners and their libraries:
 
-* Myotest - Step Analysis library. This library is the first solution made available by Myotest. Using accelerometer data the library is able, amongst other things, to reliably count steps and automatically differentiate between walking and running. The library is available on yotta and also in an example application on GitHub: [https://github.com/ARMmbed/wearable-reference-design-example-myotest-step-analysis](https://github.com/ARMmbed/wearable-reference-design-example-myotest-step-analysis "Myotest Step Analysis exemple application")
-More information is available on [http://www.myotest.com](http://www.myotest.com "Myotest Website")
-
-
+* Myotest - Step Analysis library. This library is the first solution made available by Myotest. Using accelerometer data the library is able, amongst other things, to reliably count steps and automatically differentiate between walking and running. The library is available on yotta and also in an example application on GitHub: [https://github.com/ARMmbed/wearable-reference-design-example-myotest-step-analysis](https://github.com/ARMmbed/wearable-reference-design-example-myotest-step-analysis "Myotest Step Analysis exemple application"). More information is available on [http://www.myotest.com](http://www.myotest.com "Myotest Website")
